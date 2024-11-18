@@ -32,9 +32,11 @@ Welcome to my GitHub profile!
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=devmistry27&theme=radical&no-frame=true&title=Repositories,Commits,Stars,Contributors)](https://github.com/ryo-ma/github-profile-trophy)
-## 💡 Random Quote
+
+## 💡 Quotes
 
 ![quotes](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
 ### 
 #### ✨ If you like what you see, don’t forget to ⭐ some repositories
 

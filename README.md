@@ -1,5 +1,5 @@
 
-# Hi, I'm Dev Mistry! 👋
+# Hi, I'm Dev Mistry! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px" height="40px">
 
 Welcome to my GitHub profile!
 
